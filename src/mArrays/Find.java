@@ -10,8 +10,6 @@ public class Find {
         //pedirle al usuario que ingrese un numero
         System.out.println("ingresa un numero entero: ");
 
-        Collections.sort
-
         //recorrer el arreglo buscando ese numero.
         int adivinado = Input.get_int();
 
