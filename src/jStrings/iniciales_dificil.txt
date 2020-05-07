@@ -7,7 +7,7 @@ regulus Arcturus black
 RAB
 
 $ ./iniciales_dificil
-     thomas     gordon black    
+
      
      1.  perfeccionen el algoritmo para hacer split y utilicen trim() 
      
